@@ -1,0 +1,6 @@
+2026-03-31 22:37:37,577 - INFO - Starting Smart Attendance System...
+2026-03-31 22:37:37,578 - INFO - Created directory: data/known_faces
+2026-03-31 22:37:37,579 - INFO - Created directory: data/reports
+2026-03-31 22:37:37,580 - INFO - Created directory: data/temp
+2026-03-31 22:37:37,580 - INFO - Created directory: logs
+2026-03-31 22:37:42,611 - ERROR - Error starting the application: No module named 'reportlab'
